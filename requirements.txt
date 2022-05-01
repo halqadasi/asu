@@ -18,4 +18,4 @@ holidays>=0.12
 json5>=0.9.5
 jupyter-dash>=0.4.1
 keras
-pickle
+pickle-mixin
