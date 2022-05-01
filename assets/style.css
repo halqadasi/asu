@@ -1,0 +1,76 @@
+body{
+    background-color:#2A2F34;
+    color: #f3f5f4  
+}
+
+.cont1{
+    border-bottom: 1.5px solid #C0C0C0;
+}   
+    
+
+.first-row {
+    background: #2F3942;
+    border: thin solid #495057;
+    margin-top: 3rem;
+    border-radius: 3px;
+    
+}
+
+.winter{
+    color: #A6E0EC;
+    padding: 3px;
+}
+
+.autumn{
+    color: #F77D2B;
+    padding: 3px;
+}
+
+.summer{
+    color: #FEDB41;
+    padding: 3px; 
+}
+
+.spring{
+    color:#1F981F;
+    padding: 3px;
+}
+
+.logo{
+    border: 1px solid #FFF;
+    padding: 0;
+    border-radius: 3px;
+}
+
+
+.season{
+border-bottom:1px solid rgb(204,204,204,0.3);
+margin:0px;
+align-items: center;
+padding: 3px
+}
+
+.Select-value-label,.Select-value-icon{
+color:#000
+}
+
+.rc-slider-track{
+background-color:#00a699
+}
+
+label{
+margin-inline:8px;
+}
+
+.hidden{
+  display: none;
+}
+
+.rc-slider-mark-text{
+font-size: 0.9vw;
+}
+
+    
+
+    
+    
